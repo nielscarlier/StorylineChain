@@ -12,7 +12,7 @@ Pre-processing
 
 Mining
 ------
-``mining_selected_sims.ipynb`` contains code for mining years of extreme heat from the initial selection of EURO-CORDEX simulations using GWS targets.
+``mining_selected_sims.ipynb`` contains code for mining years of extreme heat from the KS-filtered set of EURO-CORDEX simulations using GWS targets.
 
 Impact analysis
 ---------------
